@@ -1,0 +1,52 @@
+Codepen link https://codepen.io/MMostella/pen/eYWZmBb
+
+1. Semantic HTML introduces meaning to the document. Such as defining what each group of code is representing.
+2. HTML is used to structure a webpage.
+3. Attributes define additional information of elements.
+4. H1 is the largest heading group. It should only be used 1 time per page.
+5. <img> and <a>
+6. meta, script, links, titles
+7. id are mostly used for elements manipulated by javaScript
+8. any
+9. only 1 time
+10. class is another form of grouping or sorting elements within a html document
+11. any
+12. as many times as needed, as long as, everything is working and linking correctly
+13. target="_blank"
+14. adds text discription to image
+15. #
+16. a section appears as a group of text. div does not show a meaning of the text inside
+17. to make the html look pretty
+18. h2 { }
+19. id is unique to 1 element. class is not and can be used by multiple. Use id when it is something that would need to be pulled from javaScript
+20. with a . period
+21. p.human { }
+22. a more defined way to select a element. It would be helpful if has the same parent but different child
+23. div.sidebar
+24. a keyword that specifies a special state. such as :hover
+25. line-height: ___;
+26. letter-spacing: ___;
+27. text-transform: uppercase;
+28. border: 1px dotted black;
+29. * { }
+30. /* */
+31. pwd
+32. ls
+33. rmdir
+34. to keep track of changes
+35. often
+36. git push -u origin mason-mostella
+37. Github
+Fork
+Copy URL
+Open terminal
+CD to directory of choice
+Clone URL   git clone URL
+CD into project
+Create branch   git checkout -b mason-mostella
+code .
+Do the work
+Save the work in VS
+git add .
+git commit -m "Comment"
+git push -u origin mason-mostella
